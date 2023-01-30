@@ -1,1 +1,4 @@
-# CVs
+# CV
+JS
+HTML5
+CSS3
